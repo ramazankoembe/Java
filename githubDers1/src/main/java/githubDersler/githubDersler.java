@@ -6,7 +6,8 @@ public class githubDers {
 		
 		
       System.out.println("Merhaba Github");
-    
+      System.out.println("sanada merhaba");
+		
+}
 
-
-  
+    }
